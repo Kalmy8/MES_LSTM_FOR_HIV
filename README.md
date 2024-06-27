@@ -1,42 +1,30 @@
-# MES_LSTM
-A Statistics and Deep Learning Hybrid Method for Multivariate Time Series Forecasting and Anomaly Detection
-
-This repository contains the code for the models (including the benchmarks) presented in the papers by T. Mathonsi and T.L. van Zyl. The code was tested on Ubuntu Linux and MacOS.
-
-```run_simultaneous.sh``` Is the bash script which parallelizes ```run_multi_MES_LSTM.py``` and executes the model for the chosen application, with multiple independent trials. The latter accepts command-line arguments. ```results.ipynb``` Reproduces the figures and tables from the papers.
-
-### Requirements
-```
-- python=3.9.6
-- tensorflow=2.4.1
-- tensorflow_probability=0.12.2
-- matplotib=3.4.2
-- scikit-learn=0.24.2
-- pandas=1.3.2
-- satsmodels=0.12.2
-- numpy=1.19.2
-```
-
-
+HIV morbidity prediction with use of MES_LSTM architecture and social-demographic factors for every subject in Russian Federation
+ 
 ### File Structure
 ```
-- MES_LSTM/
-  - model.py
-- utils/
-  - metrics.py
-- country_0
-- country_1
-- ...
-- country_n
-  - results/
-    - mes_lstm/
-    - lstm/
-    - mlr/
-    - sarimax/
-    - varmax/
-- results.ipynb
-- run_simultaneous.sh
-- run_multi_MES_LSTM.py
+./EDA/
+    - EDA_results/                             # Folder containing EDA plots/reports/graphs
+    - original_data/                           # Original HIV and socio-economics data
+    - draw_map.py                              # Module for HIV morbidity choropleth map construciton 
+    - perform_EDA.ipynb                        # Notebook performing EDA
+               
+./Forecasting/
+    - forecasting_data/                        # Gathered dataframe ready for ML process 
+    - forecasting_results/                     # Achieved forecasts for every subject 
+        - Subject 1/
+            - ..ES/
+            - ..mes_lstm/
+            - ..pure_lstm/
+            - ..VARMAX/
+        - Subject 2/
+        - ...
+    - utils/
+        - metrics.py                          # Implemented metrics for forecast quality measurement
+        
+    - forecasting_models.py                   # Implemented forecasting models
+    - process_forecasting_results.ipynb       # Forecasting results processing, visualization
+    - run_forecast.py                         # Forecast invokation script
+
 
 ```
 
@@ -70,5 +58,5 @@ DOI = {10.3390/forecast4010001}
 }
 ```
 
-Note: As of September 2022, this repository is no longer maintained.
+
 
