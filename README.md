@@ -24,7 +24,8 @@ HIV morbidity prediction with use of MES_LSTM architecture and social-demographi
     - forecasting_models.py                   # Implemented forecasting models
     - process_forecasting_results.ipynb       # Forecasting results processing, visualization
     - run_forecast.py                         # Forecast invokation script
-
+    - gcollab_version.ipynb                   # Notebook designed specifically for google collab use,
+                                              # ready to launch forecast right away.
 
 ```
 
