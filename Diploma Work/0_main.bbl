@@ -1,0 +1,1816 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{Справка_по_ВИЧ-инфекции_в_России_Роспотребнадзор_2022}{misc}{}{}
+      \list{language}{1}{%
+        {ru-RU}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 31.03.2024}
+      \field{title}{Справки о ВИЧ-инфекции ФБУН ЦНИИ Эпидемиологии Роспотребнадзора}
+      \verb{urlraw}
+      \verb http://www.hivrussia.info/dannye-po-vich-infektsii-v-rossii/
+      \endverb
+      \verb{url}
+      \verb http://www.hivrussia.info/dannye-po-vich-infektsii-v-rossii/
+      \endverb
+    \endentry
+    \entry{ВИЧ_СССР_цитата_Министра}{misc}{}{}
+      \list{language}{1}{%
+        {ru}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SpidCenter}
+      \field{langid}{russian}
+      \field{month}{10}
+      \field{note}{Дата обращения: 31.03.2024}
+      \field{title}{Цитата министра здравоохранения РСФСР Николая Трубилина}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://spid.center/ru/articles/665
+      \endverb
+      \verb{url}
+      \verb https://spid.center/ru/articles/665
+      \endverb
+    \endentry
+    \entry{Вич_социальная_проблема2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=a493b8bc90f64224db1bb0a416060970}{%
+           family={Алексеевна},
+           familyi={А\bibinitperiod},
+           given={Полетаева\bibnamedelima Ирина},
+           giveni={П\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+        {{hash=0da81349e87cfc6505f9ff5b415b69fc}{%
+           family={Сергеевна},
+           familyi={С\bibinitperiod},
+           given={Грошева\bibnamedelima Екатерина},
+           giveni={Г\bibinitperiod\bibinitdelim Е\bibinitperiod}}}%
+        {{hash=99a3924fd9f6ca5e06ce41d5253a6b3c}{%
+           family={Викторовна},
+           familyi={В\bibinitperiod},
+           given={Кондусова\bibnamedelima Юлия},
+           giveni={К\bibinitperiod\bibinitdelim Ю\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Россия, Санкт-Петербург}%
+      }
+      \list{publisher}{1}{%
+        {Общество с ограниченной ответственностью «Логика+»}%
+      }
+      \strng{namehash}{b7c8fb371cb7f939145675f91e8b466a}
+      \strng{fullhash}{b7c8fb371cb7f939145675f91e8b466a}
+      \strng{fullhashraw}{b7c8fb371cb7f939145675f91e8b466a}
+      \strng{bibnamehash}{b7c8fb371cb7f939145675f91e8b466a}
+      \strng{authorbibnamehash}{b7c8fb371cb7f939145675f91e8b466a}
+      \strng{authornamehash}{b7c8fb371cb7f939145675f91e8b466a}
+      \strng{authorfullhash}{b7c8fb371cb7f939145675f91e8b466a}
+      \strng{authorfullhashraw}{b7c8fb371cb7f939145675f91e8b466a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2411-6467}
+      \field{journaltitle}{Евразийский Союз Ученых}
+      \field{langid}{russian}
+      \field{title}{ВИЧ-инфекция как социальная проблема}
+      \field{year}{2015}
+      \field{number}{3-5 (12)3\bibrangedash 5 (12)}
+      \range{number}{-1}
+      \field{pages}{114\bibrangedash 118}
+      \range{pages}{5}
+    \endentry
+    \entry{Современная_российская_проблематика}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=d7d8ef209f6f04122449e9834ecf0e39}{%
+           family={Александровна},
+           familyi={А\bibinitperiod},
+           given={Луговая\bibnamedelima Елена},
+           giveni={Л\bibinitperiod\bibinitdelim Е\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Россия, Москва}%
+      }
+      \list{publisher}{1}{%
+        {Федеральное государственное бюджетное образовательное учреждение высшего образования «Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации»}%
+      }
+      \strng{namehash}{d7d8ef209f6f04122449e9834ecf0e39}
+      \strng{fullhash}{d7d8ef209f6f04122449e9834ecf0e39}
+      \strng{fullhashraw}{d7d8ef209f6f04122449e9834ecf0e39}
+      \strng{bibnamehash}{d7d8ef209f6f04122449e9834ecf0e39}
+      \strng{authorbibnamehash}{d7d8ef209f6f04122449e9834ecf0e39}
+      \strng{authornamehash}{d7d8ef209f6f04122449e9834ecf0e39}
+      \strng{authorfullhash}{d7d8ef209f6f04122449e9834ecf0e39}
+      \strng{authorfullhashraw}{d7d8ef209f6f04122449e9834ecf0e39}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1682-2358}
+      \field{journaltitle}{Вестник Поволжского института управления}
+      \field{langid}{russian}
+      \field{title}{Современная российская проблематика стигматизации и дискриминации вич-инфицированных людей}
+      \field{year}{2007}
+      \field{number}{1313}
+      \range{number}{1}
+      \field{pages}{159\bibrangedash 163}
+      \range{pages}{5}
+    \endentry
+    \entry{spid_center_2862_discrimination}{misc}{}{}
+      \list{language}{1}{%
+        {ru}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SpidCenter}
+      \field{langid}{russian}
+      \field{month}{12}
+      \field{note}{Дата обращения: 31.03.2024}
+      \field{title}{Статья о дискриминации людей, живущих с ВИЧ на портале <<СПИД-центр>>}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://spid.center/ru/articles/2862
+      \endverb
+      \verb{url}
+      \verb https://spid.center/ru/articles/2862
+      \endverb
+    \endentry
+    \entry{spid_center_1458_discrimination}{misc}{}{}
+      \list{language}{1}{%
+        {ru}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SpidCenter}
+      \field{langid}{russian}
+      \field{month}{10}
+      \field{note}{Дата обращения: 31.03.2024}
+      \field{title}{Статья о дискриминации людей, живущих с ВИЧ на портале <<СПИД-центр>>}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://spid.center/ru/articles/1458/spid.center/ru/articles/1458/
+      \endverb
+      \verb{url}
+      \verb https://spid.center/ru/articles/1458/spid.center/ru/articles/1458/
+      \endverb
+    \endentry
+    \entry{Доклад_Роспотребнадзор_2023}{misc}{}{}
+      \list{language}{1}{%
+        {ru-RU}%
+      }
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 31.03.2024}
+      \field{title}{Государственный доклад «О состоянии санитарно-эпидемиологического благополучия населения Российской Федерации в 2022 году» (Роспотребнадзор)}
+      \verb{urlraw}
+      \verb https://www.rospotrebnadzor.ru/documents/details.php?ELEMENT_ID=25076&ysclid=luf30eh87v20773939
+      \endverb
+      \verb{url}
+      \verb https://www.rospotrebnadzor.ru/documents/details.php?ELEMENT_ID=25076&ysclid=luf30eh87v20773939
+      \endverb
+    \endentry
+    \entry{forbes_deficit}{misc}{}{}
+      \list{language}{1}{%
+        {ru}%
+      }
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Forbes.ru}
+      \field{langid}{russian}
+      \field{month}{8}
+      \field{note}{Дата обращения: 31.03.2024}
+      \field{title}{Статья о нехватке антиретровирусных препаратов на портале <<Форбс>>}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.forbes.ru/biznes/494652-lekarstvennyj-immunodeficit-pocemu-bol-nym-vic-v-rossii-ne-hvataet-preparatov?ysclid=ludtt5qqmq4797283
+      \endverb
+      \verb{url}
+      \verb https://www.forbes.ru/biznes/494652-lekarstvennyj-immunodeficit-pocemu-bol-nym-vic-v-rossii-ne-hvataet-preparatov?ysclid=ludtt5qqmq4797283
+      \endverb
+    \endentry
+    \entry{gazeta_ru_Deficit}{misc}{}{}
+      \list{language}{1}{%
+        {ru}%
+      }
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Газета.Ru}
+      \field{langid}{russian}
+      \field{month}{3}
+      \field{note}{Дата обращения: 31.03.2024}
+      \field{title}{Статья о нехватке антиретровирусных препаратов на портале <<Газета.RU>>}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.gazeta.ru/social/news/2024/03/27/22645873.shtml
+      \endverb
+      \verb{url}
+      \verb https://www.gazeta.ru/social/news/2024/03/27/22645873.shtml
+      \endverb
+    \endentry
+    \entry{ria_ru_deficit}{misc}{}{}
+      \list{language}{1}{%
+        {ru}%
+      }
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{РИА Новости}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 31.03.2024}
+      \field{title}{Статья о нехватке антиретровирусных препаратов на портале <<РИА-новости>>}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://ria.ru/20230815/vich-1889610440.html
+      \endverb
+      \verb{url}
+      \verb https://ria.ru/20230815/vich-1889610440.html
+      \endverb
+    \endentry
+    \entry{spid_center_3651_deficit}{misc}{}{}
+      \list{language}{1}{%
+        {ru}%
+      }
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SpidCenter}
+      \field{langid}{russian}
+      \field{month}{10}
+      \field{note}{Дата обращения: 31.03.2024}
+      \field{title}{Статья о нехватке антиретровирусных препаратов на портале <<СПИД-центр>>}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://spid.center/ru/articles/3651
+      \endverb
+      \verb{url}
+      \verb https://spid.center/ru/articles/3651
+      \endverb
+    \endentry
+    \entry{Мониторинг_закупок_препаратов_ITPC}{misc}{}{}
+      \list{language}{1}{%
+        {ru-RU}%
+      }
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{month}{11}
+      \field{note}{Дата обращения: 31.03.2024}
+      \field{title}{Результаты мониторинга государственных закупок АРВ-препаратов в 2022 году (Коалиция готовности к лечению)}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://itpc-eeca.org/monitoring/
+      \endverb
+      \verb{url}
+      \verb https://itpc-eeca.org/monitoring/
+      \endverb
+    \endentry
+    \entry{ngs_ru_deficit_2023}{misc}{}{}
+      \list{language}{1}{%
+        {ru}%
+      }
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{НГС.ру - новости Новосибирска}
+      \field{langid}{russian}
+      \field{month}{7}
+      \field{note}{Дата обращения: 31.03.2024}
+      \field{title}{Статья о дефиците антиретровирусных препаратов в 2023г. на портале <<NGS.RU>>}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://ngs.ru/text/world/2023/07/26/72531896/
+      \endverb
+      \verb{url}
+      \verb https://ngs.ru/text/world/2023/07/26/72531896/
+      \endverb
+    \endentry
+    \entry{fontanka_deficit}{misc}{}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 31.03.2024}
+      \field{title}{Статья о дефиците антиретровирусных препаратов в 2023г. на портале <<Фонтанка>>}
+      \verb{urlraw}
+      \verb https://www.fontanka.ru/2023/07/23/72522236/?ysclid=ludylr0fc5863746263
+      \endverb
+      \verb{url}
+      \verb https://www.fontanka.ru/2023/07/23/72522236/?ysclid=ludylr0fc5863746263
+      \endverb
+    \endentry
+    \entry{Лопатин_про_SIR}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=05f29351478d533a3e5efd85382d2665}{%
+           family={Лопатин},
+           familyi={Л\bibinitperiod},
+           given={А.\bibnamedelimi А.},
+           giveni={А\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+        {{hash=5e2e44d4a02cff3dca0de18e4e266df4}{%
+           family={Сафронов},
+           familyi={С\bibinitperiod},
+           given={В.\bibnamedelimi А.},
+           giveni={В\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+        {{hash=37744f68ebac3892d591421a3e57d027}{%
+           family={Радорский},
+           familyi={Р\bibinitperiod},
+           given={А.\bibnamedelimi С.},
+           giveni={А\bibinitperiod\bibinitdelim С\bibinitperiod}}}%
+        {{hash=e4cee253d49177187467e24cd959e16a}{%
+           family={Куклев},
+           familyi={К\bibinitperiod},
+           given={Е.\bibnamedelimi В.},
+           giveni={Е\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Россия, Саратов}%
+      }
+      \list{publisher}{1}{%
+        {Федеральное казенное учреждение здравоохранения Российский научно-исследовательский противочумный институт «Микроб» Федеральной службы по надзору в сфере защиты прав потребителей и благополучия человека}%
+      }
+      \strng{namehash}{7d53c8f4331729d456955223577acc55}
+      \strng{fullhash}{7d53c8f4331729d456955223577acc55}
+      \strng{fullhashraw}{7d53c8f4331729d456955223577acc55}
+      \strng{bibnamehash}{7d53c8f4331729d456955223577acc55}
+      \strng{authorbibnamehash}{7d53c8f4331729d456955223577acc55}
+      \strng{authornamehash}{7d53c8f4331729d456955223577acc55}
+      \strng{authorfullhash}{7d53c8f4331729d456955223577acc55}
+      \strng{authorfullhashraw}{7d53c8f4331729d456955223577acc55}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0370-1069}
+      \field{journaltitle}{Проблемы особо опасных инфекций}
+      \field{langid}{russian}
+      \field{title}{Современное состояние проблемы математического моделирования и прогнозирования эпидемического процесса}
+      \field{year}{2010}
+      \field{number}{33}
+      \range{number}{1}
+      \field{pages}{28\bibrangedash 30}
+      \range{pages}{3}
+    \endentry
+    \entry{Sokolova_SIR_HIV}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=a3aa24b5304df67c2781bf67431f8311}{%
+           family={Sokolov},
+           familyi={S\bibinitperiod},
+           given={Sergei\bibnamedelima V.},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=da5b004db192236971b7535ef5ac087a}{%
+           family={Sokolova},
+           familyi={S\bibinitperiod},
+           given={Alexandra\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=370265a7257cdb7be1a44ee91c338add}{%
+           family={“LETI”},
+           familyi={“\bibinitperiod},
+           given={St.\bibnamedelimi Petersburg\bibnamedelimb State\bibnamedelimb Electrotechnical\bibnamedelima University},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+      }
+      \strng{namehash}{6cf511d0192a9f3e0975d56665305596}
+      \strng{fullhash}{6cf511d0192a9f3e0975d56665305596}
+      \strng{fullhashraw}{6cf511d0192a9f3e0975d56665305596}
+      \strng{bibnamehash}{6cf511d0192a9f3e0975d56665305596}
+      \strng{authorbibnamehash}{6cf511d0192a9f3e0975d56665305596}
+      \strng{authornamehash}{6cf511d0192a9f3e0975d56665305596}
+      \strng{authorfullhash}{6cf511d0192a9f3e0975d56665305596}
+      \strng{authorfullhashraw}{6cf511d0192a9f3e0975d56665305596}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{15}
+      \field{issn}{18119905, 25422251}
+      \field{journaltitle}{Vestnik of Saint Petersburg University. Applied Mathematics. Computer Science. Control Processes}
+      \field{langid}{english}
+      \field{title}{HIV incidence in Russia: SIR epidemic model-based analysis}
+      \field{year}{2019}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{616\bibrangedash 623}
+      \range{pages}{8}
+      \field{volume}{15}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.21638/11702/spbu10.2019.416
+      \endverb
+    \endentry
+    \entry{Brauer_про_SIR}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=cce7419708114ddcc3d5832a90fd28b5}{%
+           family={Brauer},
+           familyi={B\bibinitperiod},
+           given={Fred},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{cce7419708114ddcc3d5832a90fd28b5}
+      \strng{fullhash}{cce7419708114ddcc3d5832a90fd28b5}
+      \strng{fullhashraw}{cce7419708114ddcc3d5832a90fd28b5}
+      \strng{bibnamehash}{cce7419708114ddcc3d5832a90fd28b5}
+      \strng{authorbibnamehash}{cce7419708114ddcc3d5832a90fd28b5}
+      \strng{authornamehash}{cce7419708114ddcc3d5832a90fd28b5}
+      \strng{authorfullhash}{cce7419708114ddcc3d5832a90fd28b5}
+      \strng{authorfullhashraw}{cce7419708114ddcc3d5832a90fd28b5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{2}
+      \field{issn}{2468-0427}
+      \field{journaltitle}{Infectious Disease Modelling}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{title}{Mathematical epidemiology: Past, present, and future}
+      \field{year}{2017}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{113\bibrangedash 127}
+      \range{pages}{15}
+      \field{volume}{2}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/j.idm.2017.02.001
+      \endverb
+    \endentry
+    \entry{Huppert_Katriel_SIR}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=bbcd5cbe9abf79e84720beeb6bcbe538}{%
+           family={Huppert},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=be87adf5e727c54e7917bb0aea6bd956}{%
+           family={Katriel},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{a65219e895a29206a59a6359c07d1d04}
+      \strng{fullhash}{a65219e895a29206a59a6359c07d1d04}
+      \strng{fullhashraw}{a65219e895a29206a59a6359c07d1d04}
+      \strng{bibnamehash}{a65219e895a29206a59a6359c07d1d04}
+      \strng{authorbibnamehash}{a65219e895a29206a59a6359c07d1d04}
+      \strng{authornamehash}{a65219e895a29206a59a6359c07d1d04}
+      \strng{authorfullhash}{a65219e895a29206a59a6359c07d1d04}
+      \strng{authorfullhashraw}{a65219e895a29206a59a6359c07d1d04}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{19}
+      \field{issn}{1198-743X}
+      \field{journaltitle}{Clinical Microbiology and Infection}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{title}{Mathematical modelling and prediction in infectious disease epidemiology}
+      \field{year}{2013}
+      \field{number}{11}
+      \range{number}{1}
+      \field{pages}{999\bibrangedash 1005}
+      \range{pages}{7}
+      \field{volume}{19}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1111/1469-0691.12308
+      \endverb
+    \endentry
+    \entry{LSTM_for_HIV}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=d001bce88e27fe293cfaf3708133e2ec}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9d18d38b9e3b25e192e10a6219f31a99}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Jiawen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a6854f943bba80e18c3ee28072776b06}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Meihua},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {BMC Public Health}%
+      }
+      \strng{namehash}{726066b1a9f112dd7b0e841ddb92e301}
+      \strng{fullhash}{726066b1a9f112dd7b0e841ddb92e301}
+      \strng{fullhashraw}{726066b1a9f112dd7b0e841ddb92e301}
+      \strng{bibnamehash}{726066b1a9f112dd7b0e841ddb92e301}
+      \strng{authorbibnamehash}{726066b1a9f112dd7b0e841ddb92e301}
+      \strng{authornamehash}{726066b1a9f112dd7b0e841ddb92e301}
+      \strng{authorfullhash}{726066b1a9f112dd7b0e841ddb92e301}
+      \strng{authorfullhashraw}{726066b1a9f112dd7b0e841ddb92e301}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{22}
+      \field{issn}{1471-2458}
+      \field{journaltitle}{BMC public health}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{title}{A hybrid of long short-term memory neural network and autoregressive integrated moving average model in forecasting HIV incidence and morality of post-neonatal population in East Asia: global burden of diseases 2000-2019}
+      \field{year}{2022}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{1938}
+      \range{pages}{1}
+      \field{volume}{22}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1186/s12889-022-14321-3
+      \endverb
+    \endentry
+    \entry{NN_REVIEW_for_HIV}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=1ccc6988d1e9fcd8d138f9e31cbef1c2}{%
+           family={Datilo},
+           familyi={D\bibinitperiod},
+           given={Philemon},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c6e4b7cf90c2c6f3eaf00ad7ae5ec9a5}{%
+           family={Ismail},
+           familyi={I\bibinitperiod},
+           given={Zuhaimy},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=faf1766dd1e15df04faa2a7ac3c09db2}{%
+           family={Jayeola},
+           familyi={J\bibinitperiod},
+           given={Dare},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{118a197c607f82d6215e92a6ef60ba79}
+      \strng{fullhash}{118a197c607f82d6215e92a6ef60ba79}
+      \strng{fullhashraw}{118a197c607f82d6215e92a6ef60ba79}
+      \strng{bibnamehash}{118a197c607f82d6215e92a6ef60ba79}
+      \strng{authorbibnamehash}{118a197c607f82d6215e92a6ef60ba79}
+      \strng{authornamehash}{118a197c607f82d6215e92a6ef60ba79}
+      \strng{authorfullhash}{118a197c607f82d6215e92a6ef60ba79}
+      \strng{authorfullhashraw}{118a197c607f82d6215e92a6ef60ba79}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{6}
+      \field{journaltitle}{International Journal of Epidemiologic Research}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{title}{A Review of Epidemic Forecasting Using Artificial Neural Networks}
+      \field{year}{2019}
+      \field{pages}{132\bibrangedash 143}
+      \range{pages}{12}
+      \field{volume}{6}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.15171/ijer.2019.24
+      \endverb
+    \endentry
+    \entry{NN_FORECASTING_for_HIV}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=e62db28d48d5f658c61e06e8cd9405ac}{%
+           family={Jr},
+           familyi={J\bibinitperiod},
+           given={Sales\bibnamedelimb G.\bibnamedelimi Aribe},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2845383673a701e7a2c1f08e894a8e16}{%
+           family={Gerardo},
+           familyi={G\bibinitperiod},
+           given={Bobby\bibnamedelima D.},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=33ea78a09e1efc815a7ecffc22c94786}{%
+           family={Medina},
+           familyi={M\bibinitperiod},
+           given={Ruji\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1352f3d791f2a8c70d76157195eac754}
+      \strng{fullhash}{1352f3d791f2a8c70d76157195eac754}
+      \strng{fullhashraw}{1352f3d791f2a8c70d76157195eac754}
+      \strng{bibnamehash}{1352f3d791f2a8c70d76157195eac754}
+      \strng{authorbibnamehash}{1352f3d791f2a8c70d76157195eac754}
+      \strng{authornamehash}{1352f3d791f2a8c70d76157195eac754}
+      \strng{authorfullhash}{1352f3d791f2a8c70d76157195eac754}
+      \strng{authorfullhashraw}{1352f3d791f2a8c70d76157195eac754}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2717-7564}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{title}{Neural Network-based Time Series Forecasting of HIV Epidemics: The Impact of Antiretroviral Therapies in the Philippines}
+      \field{year}{2022}
+      \field{pages}{7844\bibrangedash 7855}
+      \range{pages}{12}
+    \endentry
+    \entry{UrFu_socio_factors}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=1a105319286bc091651b17da618c6f1c}{%
+           family={Podymova},
+           familyi={P\bibinitperiod},
+           given={A.\bibnamedelimi S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=6e9e72ca0a9197b07ca422ea792f00ee}{%
+           family={Turgel},
+           familyi={T\bibinitperiod},
+           given={I.\bibnamedelimi D.},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=dbf76114b384293641d2c9d8e8da0b72}{%
+           family={Kuznetsov},
+           familyi={K\bibinitperiod},
+           given={P.\bibnamedelimi D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=a79b46b611c113382ecffe85901ffe4f}{%
+           family={Chukavina},
+           familyi={C\bibinitperiod},
+           given={K.\bibnamedelimi V.},
+           giveni={K\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {ru}%
+      }
+      \strng{namehash}{19c171c78c848fcc3e7da2028267a4a8}
+      \strng{fullhash}{19c171c78c848fcc3e7da2028267a4a8}
+      \strng{fullhashraw}{19c171c78c848fcc3e7da2028267a4a8}
+      \strng{bibnamehash}{19c171c78c848fcc3e7da2028267a4a8}
+      \strng{authorbibnamehash}{19c171c78c848fcc3e7da2028267a4a8}
+      \strng{authornamehash}{19c171c78c848fcc3e7da2028267a4a8}
+      \strng{authorfullhash}{19c171c78c848fcc3e7da2028267a4a8}
+      \strng{authorfullhashraw}{19c171c78c848fcc3e7da2028267a4a8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{17}
+      \field{issn}{24125784}
+      \field{journaltitle}{Bulletin of Ural Federal University. Series Economics and Management}
+      \field{langid}{english}
+      \field{title}{Socio-Economic Factors Determining the Dissemination of Hiv Infection in the Russian Regions}
+      \field{year}{2018}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{242\bibrangedash 262}
+      \range{pages}{21}
+      \field{volume}{17}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.15826/vestnik.2018.17.2.011
+      \endverb
+    \endentry
+    \entry{Zanakis_Ortiz_socio_factors}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=870ae9624bc363e50bda720939d426bf}{%
+           family={Zanakis},
+           familyi={Z\bibinitperiod},
+           given={Stelios},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b1a136b9b7ab6c643437724294e7c080}{%
+           family={Ortiz\bibnamedelimb Ahlf\bibnamedelimb de\bibnamedelima Alvarez},
+           familyi={O\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Cecilia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=60f5fc00c09ba96a47decd1ba84f1e77}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Vivian},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff04a818c53d33f2fe1aa7505148abd4}
+      \strng{fullhash}{ff04a818c53d33f2fe1aa7505148abd4}
+      \strng{fullhashraw}{ff04a818c53d33f2fe1aa7505148abd4}
+      \strng{bibnamehash}{ff04a818c53d33f2fe1aa7505148abd4}
+      \strng{authorbibnamehash}{ff04a818c53d33f2fe1aa7505148abd4}
+      \strng{authornamehash}{ff04a818c53d33f2fe1aa7505148abd4}
+      \strng{authorfullhash}{ff04a818c53d33f2fe1aa7505148abd4}
+      \strng{authorfullhashraw}{ff04a818c53d33f2fe1aa7505148abd4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{176}
+      \field{journaltitle}{European Journal of Operational Research}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{title}{Socio-economic determinants of HIV/AIDS pandemic and nations efficiencies}
+      \field{year}{2007}
+      \field{pages}{1811\bibrangedash 1838}
+      \range{pages}{28}
+      \field{volume}{176}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/j.ejor.2005.10.033
+      \endverb
+    \endentry
+    \entry{M4}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=ba8241955b5282793fdcf2d43c398cc6}{%
+           family={Makridakis},
+           familyi={M\bibinitperiod},
+           given={Spyros},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1bbd058009b400578fd6334102fc8dec}{%
+           family={Spiliotis},
+           familyi={S\bibinitperiod},
+           given={Evangelos},
+           giveni={E\bibinitperiod}}}%
+        {{hash=24b64933827b5aa7d9f17de37fbf0363}{%
+           family={Assimakopoulos},
+           familyi={A\bibinitperiod},
+           given={Vassilis},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{122c85e3e7da29d0c1b024877f893079}
+      \strng{fullhash}{122c85e3e7da29d0c1b024877f893079}
+      \strng{fullhashraw}{122c85e3e7da29d0c1b024877f893079}
+      \strng{bibnamehash}{122c85e3e7da29d0c1b024877f893079}
+      \strng{authorbibnamehash}{122c85e3e7da29d0c1b024877f893079}
+      \strng{authornamehash}{122c85e3e7da29d0c1b024877f893079}
+      \strng{authorfullhash}{122c85e3e7da29d0c1b024877f893079}
+      \strng{authorfullhashraw}{122c85e3e7da29d0c1b024877f893079}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{34}
+      \field{journaltitle}{International Journal of Forecasting}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{The M4 Competition: Results, findings, conclusion and way forward}
+      \field{year}{2018}
+      \field{volume}{34}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/j.ijforecast.2018.06.001
+      \endverb
+    \endentry
+    \entry{Multivariate_ES_LSTM_best}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=c339b9ab23a364abaefe56334dcb680b}{%
+           family={Mathonsi},
+           familyi={M\bibinitperiod},
+           given={Thabang},
+           giveni={T\bibinitperiod}}}%
+        {{hash=410160e5a45ffa01c479e08b55ffca77}{%
+           family={Zyl},
+           familyi={Z\bibinitperiod},
+           given={Terence\bibnamedelima L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{60da8371288858088532b9a748496be2}
+      \strng{fullhash}{60da8371288858088532b9a748496be2}
+      \strng{fullhashraw}{60da8371288858088532b9a748496be2}
+      \strng{bibnamehash}{60da8371288858088532b9a748496be2}
+      \strng{authorbibnamehash}{60da8371288858088532b9a748496be2}
+      \strng{authornamehash}{60da8371288858088532b9a748496be2}
+      \strng{authorfullhash}{60da8371288858088532b9a748496be2}
+      \strng{authorfullhashraw}{60da8371288858088532b9a748496be2}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{4}
+      \field{issn}{2571-9394}
+      \field{journaltitle}{Forecasting}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{title}{A Statistics and Deep Learning Hybrid Method for Multivariate Time Series Forecasting and Mortality Modeling}
+      \field{year}{2022}
+      \field{number}{11}
+      \range{number}{1}
+      \field{pages}{1\bibrangedash 25}
+      \range{pages}{25}
+      \field{volume}{4}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3390/forecast4010001
+      \endverb
+    \endentry
+    \entry{Multivariate_over_Univariate}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=ee2b4a15025ecfaafcb95983b2d2623d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=66e4fd8aefb650575487a5bcde1ba95b}{%
+           family={Aviles},
+           familyi={A\bibinitperiod},
+           given={Joey},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{37ffc551cba054614f8b1f86881e5a28}
+      \strng{fullhash}{37ffc551cba054614f8b1f86881e5a28}
+      \strng{fullhashraw}{37ffc551cba054614f8b1f86881e5a28}
+      \strng{bibnamehash}{37ffc551cba054614f8b1f86881e5a28}
+      \strng{authorbibnamehash}{37ffc551cba054614f8b1f86881e5a28}
+      \strng{authornamehash}{37ffc551cba054614f8b1f86881e5a28}
+      \strng{authorfullhash}{37ffc551cba054614f8b1f86881e5a28}
+      \strng{authorfullhashraw}{37ffc551cba054614f8b1f86881e5a28}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{7}
+      \field{journaltitle}{Applied Science and Innovative Research}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{title}{Contrasting Univariate and Multivariate Time Series Forecasting Methods for Sales: A Comparative Analysis}
+      \field{year}{2023}
+      \field{pages}{p127}
+      \range{pages}{-1}
+      \field{volume}{7}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.22158/asir.v7n2p127
+      \endverb
+    \endentry
+    \entry{VARMA_better_then_univariate}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=29500f5de3ce64a112863bedfe7419b9}{%
+           family={Aboagye-Sarfo},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=cff0a750cc7eddb09fe80c6b65f6fc57}{%
+           family={Mai},
+           familyi={M\bibinitperiod},
+           given={Qun},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=78c6c672177daf5482eeb3fcfe8aa1d9}{%
+           family={Sanfilippo},
+           familyi={S\bibinitperiod},
+           given={Frank\bibnamedelima M.},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9c5de16c3b816a3413417cd919296537}{%
+           family={Preen},
+           familyi={P\bibinitperiod},
+           given={David\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=59ee2bf701e9aadc553b8605486f3d94}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Louise\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=af7e8660d19d8e7dd6e723d98c9bce14}{%
+           family={Fatovich},
+           familyi={F\bibinitperiod},
+           given={Daniel\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e3bf6fb1e88276bb4aa8ed2700c1ce0b}
+      \strng{fullhash}{160c54e4bf329ca9a12dbf30a28ff869}
+      \strng{fullhashraw}{160c54e4bf329ca9a12dbf30a28ff869}
+      \strng{bibnamehash}{e3bf6fb1e88276bb4aa8ed2700c1ce0b}
+      \strng{authorbibnamehash}{e3bf6fb1e88276bb4aa8ed2700c1ce0b}
+      \strng{authornamehash}{e3bf6fb1e88276bb4aa8ed2700c1ce0b}
+      \strng{authorfullhash}{160c54e4bf329ca9a12dbf30a28ff869}
+      \strng{authorfullhashraw}{160c54e4bf329ca9a12dbf30a28ff869}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{57}
+      \field{issn}{1532-0464}
+      \field{journaltitle}{Journal of Biomedical Informatics}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{title}{A comparison of multivariate and univariate time series approaches to modelling and forecasting emergency department demand in Western Australia}
+      \field{year}{2015}
+      \field{pages}{62\bibrangedash 73}
+      \range{pages}{12}
+      \field{volume}{57}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/j.jbi.2015.06.022
+      \endverb
+    \endentry
+    \entry{Univariate_better}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=4805ed12198619919dcb2bdaaec7afdc}{%
+           family={Assad},
+           familyi={A\bibinitperiod},
+           given={Daniel\bibnamedelimb Bouzon\bibnamedelima Nagem},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=f8b1cb92e7917cb5d90a037d6a25fc2a}{%
+           family={Cara},
+           familyi={C\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+        {{hash=34321120766ea66daf9b64e7a2e3ad6e}{%
+           family={Ortega-Mier},
+           familyi={O\bibinithyphendelim M\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{74ac28efffd7542dc30086cb68966590}
+      \strng{fullhash}{74ac28efffd7542dc30086cb68966590}
+      \strng{fullhashraw}{74ac28efffd7542dc30086cb68966590}
+      \strng{bibnamehash}{74ac28efffd7542dc30086cb68966590}
+      \strng{authorbibnamehash}{74ac28efffd7542dc30086cb68966590}
+      \strng{authornamehash}{74ac28efffd7542dc30086cb68966590}
+      \strng{authorfullhash}{74ac28efffd7542dc30086cb68966590}
+      \strng{authorfullhashraw}{74ac28efffd7542dc30086cb68966590}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{85}
+      \field{issn}{1522-9602}
+      \field{journaltitle}{Bulletin of Mathematical Biology}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{title}{Comparing Short-Term Univariate and Multivariate Time-Series Forecasting Models in Infectious Disease Outbreak}
+      \field{year}{2022}
+      \field{pages}{9}
+      \range{pages}{1}
+      \field{volume}{85}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1007/s11538-022-01112-5
+      \endverb
+    \endentry
+    \entry{Univariate_better_2}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=b453ceb9d921b3bc93e99933ad954cd6}{%
+           family={Rana},
+           familyi={R\bibinitperiod},
+           given={Mashud},
+           giveni={M\bibinitperiod}}}%
+        {{hash=13c7d9f93c968c0560a3a7700a3d8e0e}{%
+           family={Koprinska},
+           familyi={K\bibinitperiod},
+           given={Irena},
+           giveni={I\bibinitperiod}}}%
+        {{hash=f61e0bf67376688dc4fd8ca2a21ff5d7}{%
+           family={Agelidis},
+           familyi={A\bibinitperiod},
+           given={Vassilios\bibnamedelima G.},
+           giveni={V\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{83ecff256b6444c53d5d952dacdba3fc}
+      \strng{fullhash}{83ecff256b6444c53d5d952dacdba3fc}
+      \strng{fullhashraw}{83ecff256b6444c53d5d952dacdba3fc}
+      \strng{bibnamehash}{83ecff256b6444c53d5d952dacdba3fc}
+      \strng{authorbibnamehash}{83ecff256b6444c53d5d952dacdba3fc}
+      \strng{authornamehash}{83ecff256b6444c53d5d952dacdba3fc}
+      \strng{authorfullhash}{83ecff256b6444c53d5d952dacdba3fc}
+      \strng{authorfullhashraw}{83ecff256b6444c53d5d952dacdba3fc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{121}
+      \field{issn}{0196-8904}
+      \field{journaltitle}{Energy Conversion and Management}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{title}{Univariate and multivariate methods for very short-term solar photovoltaic power forecasting}
+      \field{year}{2016}
+      \field{pages}{380\bibrangedash 390}
+      \range{pages}{11}
+      \field{volume}{121}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/j.enconman.2016.05.025
+      \endverb
+    \endentry
+    \entry{RFOREST_HIV_predict}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=eac4cd2fb3ee35218a2d4423a2bc4442}{%
+           family={Nisa},
+           familyi={N\bibinitperiod},
+           given={Sehar},
+           giveni={S\bibinitperiod}}}%
+        {{hash=de074ea2078018e30ccf24010741f743}{%
+           family={Azhar},
+           familyi={A\bibinitperiod},
+           given={Mahmood},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3eb7d06ea6e4aece84fa2cb9f36d96b8}{%
+           family={Ujager},
+           familyi={U\bibinitperiod},
+           given={Farhan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=aebfe8624c4ed2eebe2387958aa168b7}{%
+           family={Malik},
+           familyi={M\bibinitperiod},
+           given={Mehwish},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d6c63b2483baf3acd8afb64a987acfe}
+      \strng{fullhash}{7d6c63b2483baf3acd8afb64a987acfe}
+      \strng{fullhashraw}{7d6c63b2483baf3acd8afb64a987acfe}
+      \strng{bibnamehash}{7d6c63b2483baf3acd8afb64a987acfe}
+      \strng{authorbibnamehash}{7d6c63b2483baf3acd8afb64a987acfe}
+      \strng{authornamehash}{7d6c63b2483baf3acd8afb64a987acfe}
+      \strng{authorfullhash}{7d6c63b2483baf3acd8afb64a987acfe}
+      \strng{authorfullhashraw}{7d6c63b2483baf3acd8afb64a987acfe}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{24}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{title}{HIV/AIDS predictive model using random forest based on socio-demographical, biological and behavioral data}
+      \field{year}{2023}
+      \field{volume}{24}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/j.eij.2022.12.005
+      \endverb
+    \endentry
+    \entry{Информационные_бюллетени_Роспотребнадзор}{misc}{}{}
+      \list{language}{1}{%
+        {ru-RU}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{Информационные бюллетени ФБУН ЦНИИ Эпидемиологии Роспотребнадзора}
+      \verb{urlraw}
+      \verb http://www.hivrussia.info/elektronnye-versii-informatsionnyh-byulletenij/
+      \endverb
+      \verb{url}
+      \verb http://www.hivrussia.info/elektronnye-versii-informatsionnyh-byulletenij/
+      \endverb
+    \endentry
+    \entry{ЕМИСС}{misc}{}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{Единая межведомственная информационная система статистики}
+      \verb{urlraw}
+      \verb https://fedstat.ru/
+      \endverb
+      \verb{url}
+      \verb https://fedstat.ru/
+      \endverb
+    \endentry
+    \entry{Ethiopia_Demographic_HIV}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=b13feb071fcfa253f6b84a31cae7a943}{%
+           family={Biset\bibnamedelima Ayalew},
+           familyi={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Mohammed},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Hindawi}%
+      }
+      \strng{namehash}{b13feb071fcfa253f6b84a31cae7a943}
+      \strng{fullhash}{b13feb071fcfa253f6b84a31cae7a943}
+      \strng{fullhashraw}{b13feb071fcfa253f6b84a31cae7a943}
+      \strng{bibnamehash}{b13feb071fcfa253f6b84a31cae7a943}
+      \strng{authorbibnamehash}{b13feb071fcfa253f6b84a31cae7a943}
+      \strng{authornamehash}{b13feb071fcfa253f6b84a31cae7a943}
+      \strng{authorfullhash}{b13feb071fcfa253f6b84a31cae7a943}
+      \strng{authorfullhashraw}{b13feb071fcfa253f6b84a31cae7a943}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{2017}
+      \field{issn}{2090-1240}
+      \field{journaltitle}{AIDS Research and Treatment}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{title}{Mortality and Its Predictors among HIV Infected Patients Taking Antiretroviral Treatment in Ethiopia: A Systematic Review}
+      \field{year}{2017}
+      \field{pages}{e5415298}
+      \range{pages}{-1}
+      \field{volume}{2017}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1155/2017/5415298
+      \endverb
+    \endentry
+    \entry{Ethiopia_Demographic_HIV_2}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=a909307053ce6d9b997506a5c17b1367}{%
+           family={Biadgilign},
+           familyi={B\bibinitperiod},
+           given={Sibhatu},
+           giveni={S\bibinitperiod}}}%
+        {{hash=379255390b36737ee650cd4ba66d2bbc}{%
+           family={Reda},
+           familyi={R\bibinitperiod},
+           given={Ayalu\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=3a72b6ebdbce60b3ae5c5b3902ee48fa}{%
+           family={Digaffe},
+           familyi={D\bibinitperiod},
+           given={Tesfaye},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{9df19e89bad77bd81f7e02ac931975da}
+      \strng{fullhash}{9df19e89bad77bd81f7e02ac931975da}
+      \strng{fullhashraw}{9df19e89bad77bd81f7e02ac931975da}
+      \strng{bibnamehash}{9df19e89bad77bd81f7e02ac931975da}
+      \strng{authorbibnamehash}{9df19e89bad77bd81f7e02ac931975da}
+      \strng{authornamehash}{9df19e89bad77bd81f7e02ac931975da}
+      \strng{authorfullhash}{9df19e89bad77bd81f7e02ac931975da}
+      \strng{authorfullhashraw}{9df19e89bad77bd81f7e02ac931975da}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{9}
+      \field{issn}{1742-6405}
+      \field{journaltitle}{AIDS Research and Therapy}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{title}{Predictors of mortality among HIV infected patients taking antiretroviral treatment in Ethiopia: a retrospective cohort study}
+      \field{year}{2012}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{15}
+      \range{pages}{1}
+      \field{volume}{9}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1186/1742-6405-9-15
+      \endverb
+    \endentry
+    \entry{Dempgraphic_impact_of_HIV}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=9591dc3a6dc8c1878e36e73c30a9e229}{%
+           family={Hosegood},
+           familyi={H\bibinitperiod},
+           given={Victoria},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{9591dc3a6dc8c1878e36e73c30a9e229}
+      \strng{fullhash}{9591dc3a6dc8c1878e36e73c30a9e229}
+      \strng{fullhashraw}{9591dc3a6dc8c1878e36e73c30a9e229}
+      \strng{bibnamehash}{9591dc3a6dc8c1878e36e73c30a9e229}
+      \strng{authorbibnamehash}{9591dc3a6dc8c1878e36e73c30a9e229}
+      \strng{authornamehash}{9591dc3a6dc8c1878e36e73c30a9e229}
+      \strng{authorfullhash}{9591dc3a6dc8c1878e36e73c30a9e229}
+      \strng{authorfullhashraw}{9591dc3a6dc8c1878e36e73c30a9e229}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{21}
+      \field{issn}{0954-0121}
+      \field{journaltitle}{AIDS Care}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{title}{The demographic impact of HIV and AIDS across the family and household life-cycle: implications for efforts to strengthen families in sub-Saharan Africa}
+      \field{year}{2009}
+      \field{number}{sup1}
+      \range{number}{-1}
+      \field{pages}{13\bibrangedash 21}
+      \range{pages}{9}
+      \field{volume}{21}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1080/09540120902923063
+      \endverb
+    \endentry
+    \entry{Vrachi_per_capita}{misc}{}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{Обеспеченность врачами на 10 тыс. (ЕМИСС)}
+      \verb{urlraw}
+      \verb https://fedstat.ru/indicator/61875
+      \endverb
+      \verb{url}
+      \verb https://fedstat.ru/indicator/61875
+      \endverb
+    \endentry
+    \entry{vrp_per_capita}{misc}{}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{ВРП на душу населения с 1996 по 2020 (ЕМИСС)}
+      \verb{urlraw}
+      \verb https://fedstat.ru/indicator/42928
+      \endverb
+      \verb{url}
+      \verb https://fedstat.ru/indicator/42928
+      \endverb
+    \endentry
+    \entry{Chislennost_po_vozrastu}{misc}{}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{Структура численности постоянного населения на начало года (на 1 января) по полу и возрастным группам (ЕМИСС)}
+      \verb{urlraw}
+      \verb https://fedstat.ru/indicator/43219
+      \endverb
+      \verb{url}
+      \verb https://fedstat.ru/indicator/43219
+      \endverb
+    \endentry
+    \entry{bezrabotiza}{misc}{}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{Безработица по МОТ с 2000 по 2022 (ЕМИСС)}
+      \verb{urlraw}
+      \verb https://fedstat.ru/indicator/43062
+      \endverb
+      \verb{url}
+      \verb https://fedstat.ru/indicator/43062
+      \endverb
+    \endentry
+    \entry{new_narcomani_per_capita}{misc}{}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{Число новых случаев наркомании на 100 тысяч населения с 2005 по 2022 (ЕМИСС)}
+      \verb{urlraw}
+      \verb https://fedstat.ru/indicator/41701
+      \endverb
+      \verb{url}
+      \verb https://fedstat.ru/indicator/41701
+      \endverb
+    \endentry
+    \entry{new_houses_percent}{misc}{}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{Введено общей площади жилых домов в процентах к существующей площади (ЕМИСС)}
+      \verb{urlraw}
+      \verb https://fedstat.ru/indicator/55158
+      \endverb
+      \verb{url}
+      \verb https://fedstat.ru/indicator/55158
+      \endverb
+    \endentry
+    \entry{students_do_2012}{misc}{}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{Принято студентов в ВУЗы с 2005 по 2012 (ЕМИСС)}
+      \verb{urlraw}
+      \verb https://fedstat.ru/indicator/31352
+      \endverb
+      \verb{url}
+      \verb https://fedstat.ru/indicator/31352
+      \endverb
+    \endentry
+    \entry{students_posle_2012}{misc}{}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{Принято студентов в ВУЗы с 2013 по 2019 (ЕМИСС)}
+      \verb{urlraw}
+      \verb https://fedstat.ru/indicator/44268
+      \endverb
+      \verb{url}
+      \verb https://fedstat.ru/indicator/44268
+      \endverb
+    \endentry
+    \entry{museum_visits}{misc}{}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{Число посещений государственных музеев (ЕМИСС)}
+      \verb{urlraw}
+      \verb https://fedstat.ru/indicator/37793
+      \endverb
+      \verb{url}
+      \verb https://fedstat.ru/indicator/37793
+      \endverb
+    \endentry
+    \entry{Chislennost_naselenia}{misc}{}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{Численность населения (ЕМИСС)}
+      \verb{urlraw}
+      \verb https://fedstat.ru/indicator/43701
+      \endverb
+      \verb{url}
+      \verb https://fedstat.ru/indicator/43701
+      \endverb
+    \endentry
+    \entry{Ugol_do_2016}{misc}{}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{Уголовные правонарушения в сфере оборота наркотиков с 2010 по 2015 (ЕМИСС)}
+      \verb{urlraw}
+      \verb https://fedstat.ru/indicator/40427
+      \endverb
+      \verb{url}
+      \verb https://fedstat.ru/indicator/40427
+      \endverb
+    \endentry
+    \entry{Ugol_posle_2016}{misc}{}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{Уголовные правонарушения в сфере оборота наркотиков с 2017 по 2023 (ЕМИСС)}
+      \verb{urlraw}
+      \verb https://fedstat.ru/indicator/58157
+      \endverb
+      \verb{url}
+      \verb https://fedstat.ru/indicator/58157
+      \endverb
+    \endentry
+    \entry{Admin_do_2015}{misc}{}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{Административные правонарушения в сфере оборота наркотиков с 2010 по 2015 (ЕМИСС)}
+      \verb{urlraw}
+      \verb https://fedstat.ru/indicator/40424
+      \endverb
+      \verb{url}
+      \verb https://fedstat.ru/indicator/40424
+      \endverb
+    \endentry
+    \entry{Admin_posle_2015}{misc}{}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{Административные правонарушения в сфере оборота наркотиков с 2017 по 2023 (ЕМИСС)}
+      \verb{urlraw}
+      \verb https://fedstat.ru/indicator/58161
+      \endverb
+      \verb{url}
+      \verb https://fedstat.ru/indicator/58161
+      \endverb
+    \endentry
+    \entry{CNN_forecasting}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=149cc246d0ffe77d99f11a41cceb40bb}{%
+           family={Borovykh},
+           familyi={B\bibinitperiod},
+           given={Anastasia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=de87ec02ad9b28078d23c3cb25ae5ed6}{%
+           family={Bohte},
+           familyi={B\bibinitperiod},
+           given={Sander},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0d3a1077f183823d0120836d81bdac72}{%
+           family={Oosterlee},
+           familyi={O\bibinitperiod},
+           given={Cornelis},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{330e0ccb6e06cff6e10d925dd43dd596}
+      \strng{fullhash}{330e0ccb6e06cff6e10d925dd43dd596}
+      \strng{fullhashraw}{330e0ccb6e06cff6e10d925dd43dd596}
+      \strng{bibnamehash}{330e0ccb6e06cff6e10d925dd43dd596}
+      \strng{authorbibnamehash}{330e0ccb6e06cff6e10d925dd43dd596}
+      \strng{authornamehash}{330e0ccb6e06cff6e10d925dd43dd596}
+      \strng{authorfullhash}{330e0ccb6e06cff6e10d925dd43dd596}
+      \strng{authorfullhashraw}{330e0ccb6e06cff6e10d925dd43dd596}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{note}{arXiv:1703.04691 [stat]}
+      \field{title}{Conditional Time Series Forecasting with Convolutional Neural Networks}
+      \field{year}{2018}
+      \field{number}{arXiv:1703.04691}
+      \range{number}{-1}
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1703.04691
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1703.04691
+      \endverb
+    \endentry
+    \entry{ANNs_forecasting_epidemiology}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=1ccc6988d1e9fcd8d138f9e31cbef1c2}{%
+           family={Datilo},
+           familyi={D\bibinitperiod},
+           given={Philemon},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c6e4b7cf90c2c6f3eaf00ad7ae5ec9a5}{%
+           family={Ismail},
+           familyi={I\bibinitperiod},
+           given={Zuhaimy},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=faf1766dd1e15df04faa2a7ac3c09db2}{%
+           family={Jayeola},
+           familyi={J\bibinitperiod},
+           given={Dare},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{118a197c607f82d6215e92a6ef60ba79}
+      \strng{fullhash}{118a197c607f82d6215e92a6ef60ba79}
+      \strng{fullhashraw}{118a197c607f82d6215e92a6ef60ba79}
+      \strng{bibnamehash}{118a197c607f82d6215e92a6ef60ba79}
+      \strng{authorbibnamehash}{118a197c607f82d6215e92a6ef60ba79}
+      \strng{authornamehash}{118a197c607f82d6215e92a6ef60ba79}
+      \strng{authorfullhash}{118a197c607f82d6215e92a6ef60ba79}
+      \strng{authorfullhashraw}{118a197c607f82d6215e92a6ef60ba79}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{6}
+      \field{journaltitle}{International Journal of Epidemiologic Research}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{title}{A Review of Epidemic Forecasting Using Artificial Neural Networks}
+      \field{year}{2019}
+      \field{pages}{132\bibrangedash 143}
+      \range{pages}{12}
+      \field{volume}{6}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.15171/ijer.2019.24
+      \endverb
+    \endentry
+    \entry{Transformets_forecasting}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=4cd02231d5accc3c282905f2cc208b6d}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Ailing},
+           giveni={A\bibinitperiod}}}%
+        {{hash=814235f06a36786f063769d5989aaa86}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Muxi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f4a4cbf770add19c206827116c68732e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6cacd034725d0431a7b1f3fd4a060c02}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Qiang},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{07917b1729d8e9e8052f63e608150bb7}
+      \strng{fullhash}{07917b1729d8e9e8052f63e608150bb7}
+      \strng{fullhashraw}{07917b1729d8e9e8052f63e608150bb7}
+      \strng{bibnamehash}{07917b1729d8e9e8052f63e608150bb7}
+      \strng{authorbibnamehash}{07917b1729d8e9e8052f63e608150bb7}
+      \strng{authornamehash}{07917b1729d8e9e8052f63e608150bb7}
+      \strng{authorfullhash}{07917b1729d8e9e8052f63e608150bb7}
+      \strng{authorfullhashraw}{07917b1729d8e9e8052f63e608150bb7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{note}{arXiv:2205.13504 [cs]}
+      \field{title}{Are Transformers Effective for Time Series Forecasting?}
+      \field{year}{2022}
+      \field{number}{arXiv:2205.13504}
+      \range{number}{-1}
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2205.13504
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2205.13504
+      \endverb
+    \endentry
+    \entry{RNN_forecasting}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=bcedb4c1d2a852d41022a05e63751bf9}{%
+           family={Hewamalage},
+           familyi={H\bibinitperiod},
+           given={Hansika},
+           giveni={H\bibinitperiod}}}%
+        {{hash=fb7be81f0574878d688bb03f0abb8502}{%
+           family={Bergmeir},
+           familyi={B\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d2ea33f311ab7e75395d319cf5cb988d}{%
+           family={Bandara},
+           familyi={B\bibinitperiod},
+           given={Kasun},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{29e798ed628767a2e5b0b45cb594e1c7}
+      \strng{fullhash}{29e798ed628767a2e5b0b45cb594e1c7}
+      \strng{fullhashraw}{29e798ed628767a2e5b0b45cb594e1c7}
+      \strng{bibnamehash}{29e798ed628767a2e5b0b45cb594e1c7}
+      \strng{authorbibnamehash}{29e798ed628767a2e5b0b45cb594e1c7}
+      \strng{authornamehash}{29e798ed628767a2e5b0b45cb594e1c7}
+      \strng{authorfullhash}{29e798ed628767a2e5b0b45cb594e1c7}
+      \strng{authorfullhashraw}{29e798ed628767a2e5b0b45cb594e1c7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{title}{Recurrent Neural Networks for Time Series Forecasting: Current Status and Future Directions}
+      \field{year}{2019}
+    \endentry
+    \entry{NN3}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=f7318a6053cee8dc11e6c702c38978e4}{%
+           family={Crone},
+           familyi={C\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b13496e1cbef8fb0a37a0df55e469bc3}{%
+           family={Hibon},
+           familyi={H\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+        {{hash=10fdf01556b8158a0de2cf0700e66358}{%
+           family={Nikolopoulos},
+           familyi={N\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{4c9ec2e0455e9a0fbdee31f2346e525e}
+      \strng{fullhash}{4c9ec2e0455e9a0fbdee31f2346e525e}
+      \strng{fullhashraw}{4c9ec2e0455e9a0fbdee31f2346e525e}
+      \strng{bibnamehash}{4c9ec2e0455e9a0fbdee31f2346e525e}
+      \strng{authorbibnamehash}{4c9ec2e0455e9a0fbdee31f2346e525e}
+      \strng{authornamehash}{4c9ec2e0455e9a0fbdee31f2346e525e}
+      \strng{authorfullhash}{4c9ec2e0455e9a0fbdee31f2346e525e}
+      \strng{authorfullhashraw}{4c9ec2e0455e9a0fbdee31f2346e525e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{27}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{title}{Advances in forecasting with neural networks? Empirical evidence from the NN3 competition on time series prediction}
+      \field{year}{2011}
+      \field{pages}{635\bibrangedash 660}
+      \range{pages}{26}
+      \field{volume}{27}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/j.ijforecast.2011.04.001
+      \endverb
+    \endentry
+    \entry{NN5}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=027a08fc78f5c3f3b8bb07365e2979e9}{%
+           family={Andrawis},
+           familyi={A\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ec0cfe8d1177a66f58a2ade2556e15b7}{%
+           family={Atiya},
+           familyi={A\bibinitperiod},
+           given={Amir},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0e3d0ce48920c2ad1c3c850f565f2a10}{%
+           family={El-Shishiny},
+           familyi={E\bibinithyphendelim S\bibinitperiod},
+           given={Hisham},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb5e6429c72b5288cb46da5596929b5e}
+      \strng{fullhash}{bb5e6429c72b5288cb46da5596929b5e}
+      \strng{fullhashraw}{bb5e6429c72b5288cb46da5596929b5e}
+      \strng{bibnamehash}{bb5e6429c72b5288cb46da5596929b5e}
+      \strng{authorbibnamehash}{bb5e6429c72b5288cb46da5596929b5e}
+      \strng{authornamehash}{bb5e6429c72b5288cb46da5596929b5e}
+      \strng{authorfullhash}{bb5e6429c72b5288cb46da5596929b5e}
+      \strng{authorfullhashraw}{bb5e6429c72b5288cb46da5596929b5e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{27}
+      \field{journaltitle}{International Journal of Forecasting}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{title}{Forecast combinations of computational intelligence and linear models for the NN5 time series forecasting competition}
+      \field{year}{2011}
+      \field{pages}{672\bibrangedash 688}
+      \range{pages}{17}
+      \field{volume}{27}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/j.ijforecast.2010.09.005
+      \endverb
+    \endentry
+    \entry{M3}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=ba8241955b5282793fdcf2d43c398cc6}{%
+           family={Makridakis},
+           familyi={M\bibinitperiod},
+           given={Spyros},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1bbd058009b400578fd6334102fc8dec}{%
+           family={Spiliotis},
+           familyi={S\bibinitperiod},
+           given={Evangelos},
+           giveni={E\bibinitperiod}}}%
+        {{hash=24b64933827b5aa7d9f17de37fbf0363}{%
+           family={Assimakopoulos},
+           familyi={A\bibinitperiod},
+           given={Vassilis},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{122c85e3e7da29d0c1b024877f893079}
+      \strng{fullhash}{122c85e3e7da29d0c1b024877f893079}
+      \strng{fullhashraw}{122c85e3e7da29d0c1b024877f893079}
+      \strng{bibnamehash}{122c85e3e7da29d0c1b024877f893079}
+      \strng{authorbibnamehash}{122c85e3e7da29d0c1b024877f893079}
+      \strng{authornamehash}{122c85e3e7da29d0c1b024877f893079}
+      \strng{authorfullhash}{122c85e3e7da29d0c1b024877f893079}
+      \strng{authorfullhashraw}{122c85e3e7da29d0c1b024877f893079}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{13}
+      \field{journaltitle}{PLoS ONE}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{title}{Statistical and Machine Learning forecasting methods: Concerns and ways forward}
+      \field{year}{2018}
+      \field{volume}{13}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0194889
+      \endverb
+    \endentry
+    \entry{MES_RNN}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=c339b9ab23a364abaefe56334dcb680b}{%
+           family={Mathonsi},
+           familyi={M\bibinitperiod},
+           given={Thabang},
+           giveni={T\bibinitperiod}}}%
+        {{hash=410160e5a45ffa01c479e08b55ffca77}{%
+           family={Zyl},
+           familyi={Z\bibinitperiod},
+           given={Terence\bibnamedelima L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{60da8371288858088532b9a748496be2}
+      \strng{fullhash}{60da8371288858088532b9a748496be2}
+      \strng{fullhashraw}{60da8371288858088532b9a748496be2}
+      \strng{bibnamehash}{60da8371288858088532b9a748496be2}
+      \strng{authorbibnamehash}{60da8371288858088532b9a748496be2}
+      \strng{authornamehash}{60da8371288858088532b9a748496be2}
+      \strng{authorfullhash}{60da8371288858088532b9a748496be2}
+      \strng{authorfullhashraw}{60da8371288858088532b9a748496be2}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{4}
+      \field{issn}{2571-9394}
+      \field{journaltitle}{Forecasting}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{title}{A Statistics and Deep Learning Hybrid Method for Multivariate Time Series Forecasting and Mortality Modeling}
+      \field{year}{2022}
+      \field{number}{11}
+      \range{number}{1}
+      \field{pages}{1\bibrangedash 25}
+      \range{pages}{25}
+      \field{volume}{4}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3390/forecast4010001
+      \endverb
+    \endentry
+    \entry{Умная_нормализация_данных_2020}{misc}{}{}
+      \list{language}{1}{%
+        {ru}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Хабр}
+      \field{langid}{russian}
+      \field{month}{11}
+      \field{note}{Дата обращения: 07.04.2024}
+      \field{title}{Метод скорректированного интервала для нормализации данных}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://habr.com/ru/articles/527334/
+      \endverb
+      \verb{url}
+      \verb https://habr.com/ru/articles/527334/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

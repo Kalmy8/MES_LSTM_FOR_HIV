@@ -1,0 +1,273 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.7)  23 APR 2024 16:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**6_practice.tex
+(./6_practice.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+! Undefined control sequence.
+l.1 \chapter
+            {Практическая часть}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{П
+              рактическая часть}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no П ("41F) in font nullfont!
+Missing character: There is no р ("440) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no к ("43A) in font nullfont!
+Missing character: There is no т ("442) in font nullfont!
+Missing character: There is no и ("438) in font nullfont!
+Missing character: There is no ч ("447) in font nullfont!
+Missing character: There is no е ("435) in font nullfont!
+Missing character: There is no с ("441) in font nullfont!
+Missing character: There is no к ("43A) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no я ("44F) in font nullfont!
+Missing character: There is no ч ("447) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no с ("441) in font nullfont!
+Missing character: There is no т ("442) in font nullfont!
+Missing character: There is no ь ("44C) in font nullfont!
+! Undefined control sequence.
+l.4 \section
+            {Выгрузка, обработка и агрегация исходных данных}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no В ("412) in font nullfont!
+Missing character: There is no ы ("44B) in font nullfont!
+Missing character: There is no г ("433) in font nullfont!
+Missing character: There is no р ("440) in font nullfont!
+Missing character: There is no у ("443) in font nullfont!
+Missing character: There is no з ("437) in font nullfont!
+Missing character: There is no к ("43A) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no о ("43E) in font nullfont!
+Missing character: There is no б ("431) in font nullfont!
+Missing character: There is no р ("440) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no б ("431) in font nullfont!
+Missing character: There is no о ("43E) in font nullfont!
+Missing character: There is no т ("442) in font nullfont!
+Missing character: There is no к ("43A) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no и ("438) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no г ("433) in font nullfont!
+Missing character: There is no р ("440) in font nullfont!
+Missing character: There is no е ("435) in font nullfont!
+Missing character: There is no г ("433) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no ц ("446) in font nullfont!
+Missing character: There is no и ("438) in font nullfont!
+Missing character: There is no я ("44F) in font nullfont!
+Missing character: There is no и ("438) in font nullfont!
+Missing character: There is no с ("441) in font nullfont!
+Missing character: There is no х ("445) in font nullfont!
+Missing character: There is no о ("43E) in font nullfont!
+Missing character: There is no д ("434) in font nullfont!
+Missing character: There is no н ("43D) in font nullfont!
+Missing character: There is no ы ("44B) in font nullfont!
+Missing character: There is no х ("445) in font nullfont!
+Missing character: There is no д ("434) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no н ("43D) in font nullfont!
+Missing character: There is no н ("43D) in font nullfont!
+Missing character: There is no ы ("44B) in font nullfont!
+Missing character: There is no х ("445) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--5
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 Д
+     анные по социально демографическим факторам были выгружены с портала ЕМ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no Д ("414) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no н ("43D) in font nullfont!
+Missing character: There is no н ("43D) in font nullfont!
+Missing character: There is no ы ("44B) in font nullfont!
+Missing character: There is no е ("435) in font nullfont!
+Missing character: There is no п ("43F) in font nullfont!
+Missing character: There is no о ("43E) in font nullfont!
+Missing character: There is no с ("441) in font nullfont!
+Missing character: There is no о ("43E) in font nullfont!
+Missing character: There is no ц ("446) in font nullfont!
+Missing character: There is no и ("438) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no л ("43B) in font nullfont!
+Missing character: There is no ь ("44C) in font nullfont!
+Missing character: There is no н ("43D) in font nullfont!
+Missing character: There is no о ("43E) in font nullfont!
+Missing character: There is no д ("434) in font nullfont!
+Missing character: There is no е ("435) in font nullfont!
+Missing character: There is no м ("43C) in font nullfont!
+Missing character: There is no о ("43E) in font nullfont!
+Missing character: There is no г ("433) in font nullfont!
+Missing character: There is no р ("440) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no ф ("444) in font nullfont!
+Missing character: There is no и ("438) in font nullfont!
+Missing character: There is no ч ("447) in font nullfont!
+Missing character: There is no е ("435) in font nullfont!
+Missing character: There is no с ("441) in font nullfont!
+Missing character: There is no к ("43A) in font nullfont!
+Missing character: There is no и ("438) in font nullfont!
+Missing character: There is no м ("43C) in font nullfont!
+Missing character: There is no ф ("444) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no к ("43A) in font nullfont!
+Missing character: There is no т ("442) in font nullfont!
+Missing character: There is no о ("43E) in font nullfont!
+Missing character: There is no р ("440) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no м ("43C) in font nullfont!
+Missing character: There is no б ("431) in font nullfont!
+Missing character: There is no ы ("44B) in font nullfont!
+Missing character: There is no л ("43B) in font nullfont!
+Missing character: There is no и ("438) in font nullfont!
+Missing character: There is no в ("432) in font nullfont!
+Missing character: There is no ы ("44B) in font nullfont!
+Missing character: There is no г ("433) in font nullfont!
+Missing character: There is no р ("440) in font nullfont!
+Missing character: There is no у ("443) in font nullfont!
+Missing character: There is no ж ("436) in font nullfont!
+Missing character: There is no е ("435) in font nullfont!
+Missing character: There is no н ("43D) in font nullfont!
+Missing character: There is no ы ("44B) in font nullfont!
+Missing character: There is no с ("441) in font nullfont!
+Missing character: There is no п ("43F) in font nullfont!
+Missing character: There is no о ("43E) in font nullfont!
+Missing character: There is no р ("440) in font nullfont!
+Missing character: There is no т ("442) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no л ("43B) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no Е ("415) in font nullfont!
+Missing character: There is no М ("41C) in font nullfont!
+Missing character: There is no И ("418) in font nullfont!
+Missing character: There is no С ("421) in font nullfont!
+Missing character: There is no С ("421) in font nullfont!
+Missing character: There is no в ("432) in font nullfont!
+Missing character: There is no ф ("444) in font nullfont!
+Missing character: There is no о ("43E) in font nullfont!
+Missing character: There is no р ("440) in font nullfont!
+Missing character: There is no м ("43C) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no т ("442) in font nullfont!
+Missing character: There is no е ("435) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no т ("442) in font nullfont!
+Missing character: There is no а ("430) in font nullfont!
+Missing character: There is no б ("431) in font nullfont!
+Missing character: There is no л ("43B) in font nullfont!
+Missing character: There is no и ("438) in font nullfont!
+Missing character: There is no ц ("446) in font nullfont!
+Missing character: There is no [ ("5B) in font nullfont!
+\citation{}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .^^J
+l.6 ... портала ЕМИСС в формате csv-таблиц \cite{}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `' on page  undefined on input line 6.
+
+Missing character: There is no ] ("5D) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--7
+[]
+ []
+
+
+Overfull \hbox (5.43pt too wide) in paragraph at lines 6--7
+[] 
+ []
+
+! Undefined control sequence.
+l.9 \section
+            {Выбор }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \section{В
+              ыбор }
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no В ("412) in font nullfont!
+Missing character: There is no ы ("44B) in font nullfont!
+Missing character: There is no б ("431) in font nullfont!
+Missing character: There is no о ("43E) in font nullfont!
+Missing character: There is no р ("440) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 9--10
+[]
+ []
+
+)
+! Emergency stop.
+<*> 6_practice.tex
+                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 20 strings out of 474760
+ 443 string characters out of 5761054
+ 1918148 words of memory out of 5000000
+ 22283 multiletter control sequences out of 15000+600000
+ 558085 words of font info for 38 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 19i,2n,31p,163b,97s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.
