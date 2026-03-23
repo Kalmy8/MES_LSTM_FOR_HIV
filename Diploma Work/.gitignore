@@ -1,0 +1,50 @@
+# OS files
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python cache (if scripts are added)
+__pycache__/
+*.py[cod]
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.dvi
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.snm
+*.run.xml
+*.synctex(busy)
+*.synctex.gz
+*.toc
+*.xdv
+
+# latexmk / minted / auxiliary dirs
+_minted*/
+latex.out/
+
+# Generated TeX from PDF conversion tools
+*.pdf.tex
+
+# TeXstudio/session files
+*.txsprofile
+*.synctex.gz(busy)
+
+# Generated PDFs from local builds
+# *.pdf
